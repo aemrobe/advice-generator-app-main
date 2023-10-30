@@ -89,7 +89,7 @@ I am about to finish my javascript course and I will continue to work on javascr
 
 ### Useful resources
 
-- [the complete javascript course by jonas schmedtmann](https://www.example.com) - This helped me for learning how can I work with an api.
+- [the complete javascript course by jonas schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) - This helped me for learning how can I work with an api.
 
 ## Author
 
