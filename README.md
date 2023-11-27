@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/advice-generator-app-first-challenge-which-invovle-an-api-ECcGaG91RB)
-- Live Site URL: [live site URL](https://aemrobe.github.io/advice-generator-app-main/))
+- Live Site URL: [live site URL](https://aemrobe.github.io/advice-generator-app-main/)
 
 ## My process
 
