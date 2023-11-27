@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/advice-generator-app-first-challenge-which-invovle-an-api-ECcGaG91RB)
+- Live Site URL: [live site URL](https://aemrobe.github.io/advice-generator-app-main/))
 
 ## My process
 
@@ -77,7 +77,9 @@ const generateAdvice = async function () {
     //displaying the advice text
     adviceText.textContent = `"${advice}"`;
   } catch (err) {
-    //in this catch block we can access to the error which is happend during the generation of advice in the try block.for example:- if the internet connection is not good enough to be able to make the fetch api to get the data,if the url is invalid which is used in the fetch api and we will display that error to the user in the below code.
+    //in this catch block we can access to the error which is happend during the generation of advice in the try block.
+for example:- if the internet connection is not good enough to be able to make the fetch api to get the data,
+if the url is invalid which is used in the fetch api and we will display that error to the user in the below code.
     adviceText.textContent = `${err}`;
   }
 };
